@@ -1,0 +1,6 @@
+interface:
+  display_name: "商品研究助手"
+  short_description: "从日常喜好研究产品机制，生成五百字内千问搜索条件并依据候选迭代"
+  default_prompt: "请使用 $product-research，帮我澄清这次购物需求，自主研究后生成不超过500字的千问淘宝筛选指令。"
+policy:
+  allow_implicit_invocation: true

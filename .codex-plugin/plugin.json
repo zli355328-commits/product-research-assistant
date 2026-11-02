@@ -1,0 +1,6 @@
+{
+  "name": "product-research-assistant",
+  "version": "0.1.0",
+  "description": "商品需求研究与千问搜索条件生成",
+  "skills": "./skills/"
+}

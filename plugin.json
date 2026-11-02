@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "product-research-assistant",
+  "version": "0.1.0",
+  "description": "将商品喜好研究为有证据、可执行的千问淘宝搜索指令。",
+  "license": "MIT"
+}
