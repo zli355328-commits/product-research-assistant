@@ -1,6 +1,6 @@
 {
   "name": "product-research-assistant",
-  "version": "0.1.0",
-  "description": "商品需求研究与千问搜索条件生成",
+  "version": "0.2.0",
+  "description": "多轮澄清购物需求，研究任意商品品类并生成可核验的搜索条件。",
   "skills": "./skills/"
 }
